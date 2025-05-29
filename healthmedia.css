@@ -1,0 +1,30 @@
+@media screen and (max-width: 1410px) {
+  .chnge {
+    background-color: aquamarine;
+  }
+  .week {
+    position: relative;
+    left: -65px;
+  }
+  input[type="search"] {
+    height: 6vh;
+    width: 58vh;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+  }
+  .notify img {
+    position: relative;
+    left: 58vh;
+    top: 2px;
+    filter: contrast(90%) brightness(100%) saturate(90%);
+  }
+}
+/* @media screen and (max-width: 1410px) {
+  .lungs,
+  .teeth,
+  .bone {
+    height: 130px;
+    width: 130px;
+    background-color: #f6faff;
+  }
+} */
